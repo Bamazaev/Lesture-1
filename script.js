@@ -34,7 +34,8 @@
 // console.log(main(149));
 
 // task 5
-// function main (a){
-//     return a/100
-// }
-// console.log(main(2020));
+function main (a){
+    return Math.floor (a/100)
+}
+console.log(main(2020));
+

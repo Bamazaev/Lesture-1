@@ -29,3 +29,10 @@
 # Velue ба 2 кисм чудо мешавад.
 # Абект ва Ивазшаванда (Перемени)
 ![image](https://i2.wp.com/miro.medium.com/0*fDBMZOv0d2wi4oQS.jpg)
+
+
+# Loop
+* for
+* while 
+* do while
+
